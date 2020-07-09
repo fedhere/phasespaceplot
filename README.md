@@ -1,4 +1,4 @@
-# phasespaceplot
+# phase space of astrophysical transients plot
 
 
-![GitHub Logo](taumv_updated.pdf)
+![all transients](taumv_updated.pdf)
